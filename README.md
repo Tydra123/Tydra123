@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hey 👋 I'm Tydra123</h1>
 
 <h3 align="center">
@@ -135,4 +134,3 @@ Most of my time is spent experimenting with new technologies, improving existing
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Tydra123&style=for-the-badge&color=3B82F6" />
 </p>
-```
