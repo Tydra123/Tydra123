@@ -88,20 +88,6 @@ Most of my time is spent experimenting with new technologies, improving existing
 - Plugin Development
 - Server Optimization
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Tydra123&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tydra123&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Tydra123&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -126,8 +112,8 @@ Most of my time is spent experimenting with new technologies, improving existing
 - Minecraft Server Development
 - Discord Integrations
 - Web Applications
-- Cloud Infrastructure
-- Open Source
+- Minecraft Plugin and Skript Development
+- Machine Learning
 
 ---
 
