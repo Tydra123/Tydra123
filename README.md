@@ -1,122 +1,53 @@
-<h1 align="center">Hey 👋 I'm Tydra123</h1>
+# Hi, I'm Furkan
 
-<h3 align="center">
-Backend Developer • Minecraft Developer • Full Stack Developer
-</h3>
+I'm a developer focused on backend development, web technologies, Minecraft servers and building things that I find interesting.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+Developer;Minecraft+Plugin+Developer;Full+Stack+Developer;Backend+Enthusiast" />
-</p>
+## Languages
 
----
+[![My Skills](https://skillicons.dev/icons?i=rust,go,java,python,ts,js,html,css)](https://skillicons.dev)
 
-## 👨‍💻 About Me
+## Frameworks & Technologies
 
-I'm a developer who enjoys building backend systems, Minecraft plugins, Discord bots and modern web applications.
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs)](https://skillicons.dev)
 
-Most of my time is spent experimenting with new technologies, improving existing projects and creating tools that are actually useful.
+## Databases & Backend
 
----
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mariadb,supabase)](https://skillicons.dev)
 
-## 🧰 Languages
+REST API · WebSocket · Discord.js
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
-</p>
+## Infrastructure
 
-## 🌐 Frontend
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,nginx,docker,vercel)](https://skillicons.dev)
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-</p>
+## Minecraft
 
-## ⚙️ Backend
+Spigot · Paper · Bukkit · Skript · SkBee
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,bun,express" />
-</p>
+Minecraft plugins, server systems, Discord integrations and various server-side tools.
 
-## 🗄️ Database
+## Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=vscode,rust,idea,pycharm)](https://skillicons.dev)
 
-## ☁️ DevOps & Deployment
+VS Code · RustRover · IntelliJ IDEA · PyCharm
 
-<p>
-<img src="https://skillicons.dev/icons?i=ubuntu,linux,nginx,docker,cloudflare,vercel,git,github,githubactions" />
-</p>
+## What I Work On
 
-## 🛠 IDE & Tools
+* Backend and API development
+* Web applications
+* Minecraft plugins and server systems
+* Discord bots and integrations
+* Database-driven applications
+* Automation and developer tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
-</p>
+## Currently Learning
 
----
+Rust · Go · Systems Programming · Backend Architecture
 
-## ⚡ Technologies I Work With
+## GitHub Stats
 
-- Java
-- JavaScript
-- TypeScript
-- Python
-- React
-- Next.js
-- Tailwind CSS
-- Node.js
-- Bun
-- Discord.js
-- REST API
-- WebSocket
-- Supabase
-- Nginx
-- Ubuntu
-- Docker
-- Cloudflare
-- Vercel
-
-### Minecraft
-
-- PaperMC
-- Spigot
-- Bukkit
-- Skript
-- SkBee
-- SkCord
-- Plugin Development
-- Server Optimization
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tydra123&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nextjs,tailwind,nodejs,bun,supabase,docker,cloudflare,vercel,nginx,ubuntu,mysql,mongodb,git,github,vscode,idea" />
-</p>
-
----
-
-## 📌 Currently Interested In
-
-- Backend Architecture
-- High Performance APIs
-- Minecraft Server Development
-- Discord Integrations
-- Web Applications
-- Minecraft Plugin and Skript Development
-- Machine Learning
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Tydra123&style=for-the-badge&color=3B82F6" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="170">
 </p>
