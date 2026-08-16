@@ -21,7 +21,7 @@ REST API · WebSocket · Discord.js
 <p>
   <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL">
   <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL">
-  <img src="https://cdn.simpleicons.org/mariadb" height="48" alt="MariaDB">
+  <img src="https://cdn.simpleicons.org/mariadb/003545" height="48" alt="MariaDB">
   <img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase">
 </p>
 
@@ -41,7 +41,7 @@ Minecraft plugins, server systems, Discord integrations and other server-side to
   <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code">
   <img src="https://skillicons.dev/icons?i=idea" height="48" alt="IntelliJ IDEA">
   <img src="https://skillicons.dev/icons?i=pycharm" height="48" alt="PyCharm">
-  <img src="https://cdn.simpleicons.org/rustrover" height="48" alt="RustRover">
+  <img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/rustrover/rustrover.svg" height="48" alt="RustRover">
 </p>
 
 VS Code · RustRover · PyCharm · IntelliJ IDEA
