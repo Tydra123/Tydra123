@@ -69,7 +69,8 @@ A Rust-based cryptocurrency data analysis engine focused on high-performance mar
 
 ## GitHub Stats
 
-<p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Tydra123&show_icons=true&hide_border=true&theme=transparent" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tydra123&layout=compact&hide_border=true&theme=transparent" height="170">
 </p>
+
